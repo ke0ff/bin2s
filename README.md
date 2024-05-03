@@ -5,11 +5,11 @@ Features a terse help response:
 
 <pre>
 C:\>bin2s -?
-Usage:  bin2s <in_name> / <out_name> / <-?>
+Usage:  bin2s {in_name} / {out_name} / {-?}
 Valid <args>:
-  <-?>      help
-  <xx_name> any valid filename
+  {-?}      help
+  {xx_name} any valid filename
 
 Press any key to continue...
-  </pre>
+</pre>
 Responds to file errors and provides terse reports of those errors.  The "EXE" zip archive is the compiled exe (runs out of a cmd window).
