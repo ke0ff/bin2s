@@ -1,5 +1,5 @@
-# bin2s19
-Binary to S19 converter for WIN10
+# bin2s
+Binary to S28 converter for WIN10
 Visual CPP project for WIN10.  Beta release (V0.2).
 Features a terse help response:
 
@@ -9,6 +9,8 @@ Usage:  bin2s {in_name} / {out_name} / {-?}
 Valid <args>:
   {-?}      help
   {xx_name} any valid filename
+  If {out_name} is omitted, the default "out.s28" filename will be used.
+  File over-writes are NOT prompted!
 
 Press any key to continue...
 </pre>
