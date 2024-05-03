@@ -12,4 +12,5 @@ Valid <args>:
 
 Press any key to continue...
 </pre>
-Responds to file errors and provides terse reports of those errors.  The "EXE" zip archive is the compiled exe (runs out of a cmd window).
+Responds to file errors and provides terse reports of those errors.  The "EXE" zip archive is the compiled exe (runs out of a cmd window).<br>
+The easiest use-case is to place the .exe into the folder with the bin files to be processed.  The output files will be created in that same folder.
