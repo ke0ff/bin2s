@@ -1,5 +1,5 @@
 # bin2s
-Binary to S19/S28 converter for WIN10
+Binary to S19/S28 converter for WIN11/10<br>
 Visual CPP project for WIN10.  Beta release (V0.3).
 Features a terse help response:
 
@@ -16,5 +16,5 @@ C:\>bin2s -?
 
   Press any key to continue...
 </pre>
-Responds to file errors and provides terse reports of those errors.  The "EXE" zip archive is the compiled exe (runs out of a cmd window).<br>
+Responds to file errors and provides terse reports of those errors.  The default output filename is ALWAYS "out.s28" regardless of the actual format. The "EXE" zip archive is the compiled exe (runs out of a cmd window).<br>
 The easiest use-case is to place the .exe into the folder with the bin files to be processed.  The output files will be created in that same folder.
