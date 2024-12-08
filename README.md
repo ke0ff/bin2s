@@ -1,7 +1,10 @@
 # bin2s
 Binary to S19/S28 converter for WIN11/10<br>
-Visual CPP project for WIN10.  Beta release (V0.3).
-Features a terse help response:
+Visual CPP project for WIN10:
+</br>Microsoft Visual Studio Community 2022 (64-bit) - Current Version 17.8.6
+</br>
+
+bin2s Beta release (V0.3), features a terse help response:
 
 <pre>
 C:\>bin2s -?
